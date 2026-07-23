@@ -1,0 +1,15 @@
+product_id,product_name,category,brand,unit_price,cost_price,launch_date,active_flag
+P001,Wireless Mouse,Electronics,Logitech,799.00,420.00,15-02-2024,Y
+P002,Bluetooth Keyboard,Electronics,Dell,1499.00,900.00,20-02-2024,Y
+P003,USB Cable,Accessories,Boat,249.00,90.00,10-03-2024,Y
+P004,Laptop Stand,Accessories,Portronics,999.00,550.00,12-03-2024,Y
+P005,Office Chair,Furniture,Ikea,6999.00,4200.00,01-04-2024,Y
+P006,Desk Lamp,Furniture,Philips,1299.00,700.00,18-04-2024,Y
+P007,Water Bottle,Lifestyle,Milton,499.00,220.00,25-04-2024,Y
+P008,Backpack,Lifestyle,Wildcraft,1999.00,1100.00,10-05-2024,Y
+P009,Notebook,Stationery,Classmate,99.00,45.00,14-05-2024,Y
+P010,Pen Pack,Stationery,Cello,149.00,60.00,16-05-2024,Y
+P011,Monitor,Electronics,Samsung,12999.00,9200.00,01-06-2024,Y
+P012,Printer,Electronics,HP,8999.00,,05-06-2024,Y
+P013,Coffee Mug,Lifestyle,,299.00,120.00,08-06-2024,Y
+P014,Whiteboard,Office Supplies,Oddy,2499.00,1500.00,15-06-2024,N

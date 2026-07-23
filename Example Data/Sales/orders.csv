@@ -1,0 +1,19 @@
+order_id,customer_id,store_id,order_date,order_status,payment_method,order_channel
+O001,C001,S001,10-01-2026,Delivered,UPI,Online
+O002,C002,S002,12-01-2026,Delivered,Credit Card,Store
+O003,C003,S003,14-01-2026,Cancelled,Debit Card,Online
+O004,C004,S001,15-01-2026,Delivered,Cash,Store
+O005,C005,S004,18-01-2026,Returned,UPI,Online
+O006,C006,S005,20-01-2026,Delivered,Credit Card,Online
+O007,C007,S006,22-01-2026,Delivered,UPI,Store
+O008,C008,S999,25-01-2026,Pending,Wallet,Online
+O009,C009,S001,28-01-2026,Delivered,UPI,Online
+O010,C010,S002,31-01-2026,Delivered,Credit Card,Store
+O011,C011,S003,02-02-2026,Delivered,Debit Card,Online
+O012,C012,S004,05-02-2026,Cancelled,Cash,Store
+O013,C001,S005,07-02-2026,Delivered,UPI,Online
+O014,C002,S006,09-02-2026,Delivered,Credit Card,Online
+O015,C999,S001,10-02-2026,Delivered,UPI,Online
+O016,C003,S002,11-02-2026,,Wallet,Store
+O017,C004,S003,12-02-2026,Delivered,,Online
+O018,C005,S004,15-02-2026,Pending,UPI,Online

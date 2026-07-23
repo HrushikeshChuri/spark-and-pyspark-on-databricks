@@ -1,0 +1,668 @@
+{
+  "dataset_name": "Worldwide Robotic Process Automation Database 2026",
+  "version": "1.0",
+  "generated_year": 2026,
+  "license": "CC BY 4.0",
+  "subtitle": "Global Enterprise Automation, Software Robots, Digital Workforce, and RPA Market Intelligence Dataset",
+  "data_quality": [
+    "Enterprise-grade",
+    "Clean",
+    "Deduplicated",
+    "Analytics-ready",
+    "AI-ready",
+    "Globally representative"
+  ],
+  "global_statistics": {
+    "total_companies": 5000,
+    "total_projects": 50000,
+    "total_bots": 200000,
+    "estimated_market_size_usd": 120000000000,
+    "average_roi_percent": 174.5,
+    "total_investment_usd": 9108139353,
+    "total_annual_savings_usd": 15904317843,
+    "average_robots_per_project": 25.5
+  },
+  "regional_statistics": [
+    {
+      "region": "Africa",
+      "company_count": 180,
+      "project_count": 1544,
+      "bot_count": 33384,
+      "total_revenue_usd": 2037137330,
+      "market_share_percent": 1.7,
+      "average_roi_percent": 174.5,
+      "top_countries": [
+        "Egypt",
+        "Ghana",
+        "Kenya",
+        "Morocco",
+        "Nigeria"
+      ]
+    },
+    {
+      "region": "Asia-Pacific",
+      "company_count": 1657,
+      "project_count": 15902,
+      "bot_count": 33479,
+      "total_revenue_usd": 57123540744,
+      "market_share_percent": 47.6,
+      "average_roi_percent": 174.5,
+      "top_countries": [
+        "Australia",
+        "China",
+        "India",
+        "Indonesia",
+        "Japan"
+      ]
+    },
+    {
+      "region": "Europe",
+      "company_count": 1674,
+      "project_count": 18009,
+      "bot_count": 33318,
+      "total_revenue_usd": 86332693041,
+      "market_share_percent": 71.94,
+      "average_roi_percent": 174.5,
+      "top_countries": [
+        "Austria",
+        "Belgium",
+        "Czech Republic",
+        "Denmark",
+        "Finland"
+      ]
+    },
+    {
+      "region": "Middle East",
+      "company_count": 277,
+      "project_count": 2222,
+      "bot_count": 33292,
+      "total_revenue_usd": 3014600211,
+      "market_share_percent": 2.51,
+      "average_roi_percent": 174.5,
+      "top_countries": [
+        "Bahrain",
+        "Israel",
+        "Kuwait",
+        "Oman",
+        "Qatar"
+      ]
+    },
+    {
+      "region": "North America",
+      "company_count": 942,
+      "project_count": 10093,
+      "bot_count": 33381,
+      "total_revenue_usd": 59705040414,
+      "market_share_percent": 49.75,
+      "average_roi_percent": 174.5,
+      "top_countries": [
+        "Canada",
+        "Mexico",
+        "United States"
+      ]
+    },
+    {
+      "region": "South America",
+      "company_count": 270,
+      "project_count": 2230,
+      "bot_count": 33146,
+      "total_revenue_usd": 3497971005,
+      "market_share_percent": 2.91,
+      "average_roi_percent": 174.5,
+      "top_countries": [
+        "Argentina",
+        "Brazil",
+        "Chile",
+        "Colombia",
+        "Ecuador"
+      ]
+    }
+  ],
+  "industry_statistics": [
+    {
+      "industry": "Education",
+      "company_count": 204,
+      "project_count": 2161,
+      "bot_count": 0,
+      "total_savings_usd": 774605596,
+      "total_budget_usd": 423616335,
+      "roi_percent": 548.6
+    },
+    {
+      "industry": "Banking & Financial Services",
+      "company_count": 200,
+      "project_count": 2148,
+      "bot_count": 0,
+      "total_savings_usd": 676058041,
+      "total_budget_usd": 387851366,
+      "roi_percent": 522.9
+    },
+    {
+      "industry": "Aerospace & Defense",
+      "company_count": 199,
+      "project_count": 2137,
+      "bot_count": 0,
+      "total_savings_usd": 733273425,
+      "total_budget_usd": 395186613,
+      "roi_percent": 556.7
+    },
+    {
+      "industry": "Chemical & Materials",
+      "company_count": 209,
+      "project_count": 2111,
+      "bot_count": 0,
+      "total_savings_usd": 680869724,
+      "total_budget_usd": 389112260,
+      "roi_percent": 524.9
+    },
+    {
+      "industry": "Hospitality & Travel",
+      "company_count": 198,
+      "project_count": 2106,
+      "bot_count": 0,
+      "total_savings_usd": 672367435,
+      "total_budget_usd": 379244700,
+      "roi_percent": 531.9
+    },
+    {
+      "industry": "Mining & Metals",
+      "company_count": 205,
+      "project_count": 2082,
+      "bot_count": 0,
+      "total_savings_usd": 658372589,
+      "total_budget_usd": 373658492,
+      "roi_percent": 528.6
+    },
+    {
+      "industry": "Professional Services & Consulting",
+      "company_count": 196,
+      "project_count": 2045,
+      "bot_count": 0,
+      "total_savings_usd": 642037770,
+      "total_budget_usd": 362367100,
+      "roi_percent": 531.5
+    },
+    {
+      "industry": "Oil & Gas",
+      "company_count": 195,
+      "project_count": 2033,
+      "bot_count": 0,
+      "total_savings_usd": 620753197,
+      "total_budget_usd": 352599239,
+      "roi_percent": 528.2
+    },
+    {
+      "industry": "Automotive",
+      "company_count": 203,
+      "project_count": 2012,
+      "bot_count": 0,
+      "total_savings_usd": 619574369,
+      "total_budget_usd": 363874020,
+      "roi_percent": 510.8
+    },
+    {
+      "industry": "Insurance",
+      "company_count": 191,
+      "project_count": 1968,
+      "bot_count": 0,
+      "total_savings_usd": 651179416,
+      "total_budget_usd": 370053562,
+      "roi_percent": 527.9
+    },
+    {
+      "industry": "Agriculture & Food Processing",
+      "company_count": 196,
+      "project_count": 1929,
+      "bot_count": 0,
+      "total_savings_usd": 629187967,
+      "total_budget_usd": 347597786,
+      "roi_percent": 543.0
+    },
+    {
+      "industry": "Healthcare & Pharmaceuticals",
+      "company_count": 199,
+      "project_count": 1898,
+      "bot_count": 0,
+      "total_savings_usd": 602368011,
+      "total_budget_usd": 345636012,
+      "roi_percent": 522.8
+    },
+    {
+      "industry": "Technology & IT Services",
+      "company_count": 195,
+      "project_count": 1896,
+      "bot_count": 0,
+      "total_savings_usd": 628428560,
+      "total_budget_usd": 356999643,
+      "roi_percent": 528.1
+    },
+    {
+      "industry": "Construction & Engineering",
+      "company_count": 195,
+      "project_count": 1895,
+      "bot_count": 0,
+      "total_savings_usd": 629254328,
+      "total_budget_usd": 348820334,
+      "roi_percent": 541.2
+    },
+    {
+      "industry": "Legal Services",
+      "company_count": 188,
+      "project_count": 1886,
+      "bot_count": 0,
+      "total_savings_usd": 561960729,
+      "total_budget_usd": 338026373,
+      "roi_percent": 498.7
+    },
+    {
+      "industry": "Media & Entertainment",
+      "company_count": 200,
+      "project_count": 1885,
+      "bot_count": 0,
+      "total_savings_usd": 612705895,
+      "total_budget_usd": 363683491,
+      "roi_percent": 505.4
+    },
+    {
+      "industry": "FMCG & Consumer Goods",
+      "company_count": 199,
+      "project_count": 1882,
+      "bot_count": 0,
+      "total_savings_usd": 556911197,
+      "total_budget_usd": 337534379,
+      "roi_percent": 495.0
+    },
+    {
+      "industry": "Nonprofit & NGO",
+      "company_count": 190,
+      "project_count": 1879,
+      "bot_count": 0,
+      "total_savings_usd": 613955330,
+      "total_budget_usd": 343707538,
+      "roi_percent": 535.9
+    },
+    {
+      "industry": "Real Estate",
+      "company_count": 182,
+      "project_count": 1807,
+      "bot_count": 0,
+      "total_savings_usd": 554200703,
+      "total_budget_usd": 307140957,
+      "roi_percent": 541.3
+    },
+    {
+      "industry": "Retail & E-Commerce",
+      "company_count": 186,
+      "project_count": 1799,
+      "bot_count": 0,
+      "total_savings_usd": 565137761,
+      "total_budget_usd": 333143399,
+      "roi_percent": 508.9
+    },
+    {
+      "industry": "Life Sciences",
+      "company_count": 177,
+      "project_count": 1789,
+      "bot_count": 0,
+      "total_savings_usd": 570030225,
+      "total_budget_usd": 329006061,
+      "roi_percent": 519.8
+    },
+    {
+      "industry": "Government & Public Sector",
+      "company_count": 186,
+      "project_count": 1786,
+      "bot_count": 0,
+      "total_savings_usd": 544807854,
+      "total_budget_usd": 323413755,
+      "roi_percent": 505.4
+    },
+    {
+      "industry": "Telecommunications",
+      "company_count": 187,
+      "project_count": 1775,
+      "bot_count": 0,
+      "total_savings_usd": 543956309,
+      "total_budget_usd": 311379351,
+      "roi_percent": 524.1
+    },
+    {
+      "industry": "Energy & Utilities",
+      "company_count": 180,
+      "project_count": 1745,
+      "bot_count": 0,
+      "total_savings_usd": 528535666,
+      "total_budget_usd": 314098330,
+      "roi_percent": 504.8
+    },
+    {
+      "industry": "Transportation & Logistics",
+      "company_count": 172,
+      "project_count": 1714,
+      "bot_count": 0,
+      "total_savings_usd": 542938543,
+      "total_budget_usd": 317227417,
+      "roi_percent": 513.5
+    },
+    {
+      "industry": "Manufacturing",
+      "company_count": 168,
+      "project_count": 1632,
+      "bot_count": 0,
+      "total_savings_usd": 490847203,
+      "total_budget_usd": 293160840,
+      "roi_percent": 502.3
+    }
+  ],
+  "technology_trends": [
+    {
+      "technology": "AI-Enabled Automation",
+      "adoption_rate_percent": 55.1,
+      "projects_count": 27549,
+      "growth_outlook": "High"
+    },
+    {
+      "technology": "Cloud RPA",
+      "adoption_rate_percent": 64.8,
+      "projects_count": 32398,
+      "growth_outlook": "Very High"
+    },
+    {
+      "technology": "Machine Learning Bots",
+      "adoption_rate_percent": 28.4,
+      "bot_count": 56848,
+      "growth_outlook": "Very High"
+    },
+    {
+      "technology": "Unattended Automation",
+      "adoption_rate_percent": 65.1,
+      "bot_count": 130297,
+      "growth_outlook": "Moderate"
+    },
+    {
+      "technology": "Cloud-Hosted Bots",
+      "adoption_rate_percent": 64.8,
+      "bot_count": 129638,
+      "growth_outlook": "Very High"
+    },
+    {
+      "technology": "AI-Assisted Bots",
+      "adoption_rate_percent": 55.1,
+      "bot_count": 110135,
+      "growth_outlook": "Very High"
+    },
+    {
+      "technology": "Process Mining",
+      "adoption_rate_percent": 60.0,
+      "companies_count": 3000,
+      "growth_outlook": "High"
+    },
+    {
+      "technology": "Low-Code RPA",
+      "adoption_rate_percent": 70.0,
+      "companies_count": 3500,
+      "growth_outlook": "High"
+    }
+  ],
+  "top_rpa_vendors": [
+    {
+      "platform": "Robocorp",
+      "vendor_count": 156,
+      "total_revenue_usd": 11303880815,
+      "total_customers": 57028,
+      "project_count": 1570,
+      "market_share_percent": 9.42
+    },
+    {
+      "platform": "UiPath",
+      "vendor_count": 140,
+      "total_revenue_usd": 11165035416,
+      "total_customers": 45655,
+      "project_count": 1383,
+      "market_share_percent": 9.3
+    },
+    {
+      "platform": "HelpSystems Automate",
+      "vendor_count": 157,
+      "total_revenue_usd": 8686163663,
+      "total_customers": 58417,
+      "project_count": 1589,
+      "market_share_percent": 7.24
+    },
+    {
+      "platform": "Appian",
+      "vendor_count": 165,
+      "total_revenue_usd": 8353421014,
+      "total_customers": 64607,
+      "project_count": 1622,
+      "market_share_percent": 6.96
+    },
+    {
+      "platform": "Pega Platform",
+      "vendor_count": 143,
+      "total_revenue_usd": 7945881683,
+      "total_customers": 54378,
+      "project_count": 1420,
+      "market_share_percent": 6.62
+    },
+    {
+      "platform": "AutoHotkey Enterprise",
+      "vendor_count": 158,
+      "total_revenue_usd": 7925045127,
+      "total_customers": 45613,
+      "project_count": 1632,
+      "market_share_percent": 6.6
+    },
+    {
+      "platform": "EdgeVerve AssistEdge",
+      "vendor_count": 155,
+      "total_revenue_usd": 7821658811,
+      "total_customers": 49684,
+      "project_count": 1574,
+      "market_share_percent": 6.52
+    },
+    {
+      "platform": "Cognizant RPA",
+      "vendor_count": 171,
+      "total_revenue_usd": 7798675324,
+      "total_customers": 48059,
+      "project_count": 1733,
+      "market_share_percent": 6.5
+    },
+    {
+      "platform": "NICE Robotic Automation",
+      "vendor_count": 147,
+      "total_revenue_usd": 7094558869,
+      "total_customers": 49255,
+      "project_count": 1411,
+      "market_share_percent": 5.91
+    },
+    {
+      "platform": "WorkFusion",
+      "vendor_count": 154,
+      "total_revenue_usd": 6681789375,
+      "total_customers": 44495,
+      "project_count": 1580,
+      "market_share_percent": 5.57
+    },
+    {
+      "platform": "RoboTask",
+      "vendor_count": 142,
+      "total_revenue_usd": 6392038652,
+      "total_customers": 38487,
+      "project_count": 1491,
+      "market_share_percent": 5.33
+    },
+    {
+      "platform": "AutomationEdge",
+      "vendor_count": 123,
+      "total_revenue_usd": 6373157448,
+      "total_customers": 34905,
+      "project_count": 1286,
+      "market_share_percent": 5.31
+    },
+    {
+      "platform": "Botpath",
+      "vendor_count": 138,
+      "total_revenue_usd": 6279131047,
+      "total_customers": 47842,
+      "project_count": 1432,
+      "market_share_percent": 5.23
+    },
+    {
+      "platform": "Jacada",
+      "vendor_count": 161,
+      "total_revenue_usd": 5887511803,
+      "total_customers": 31718,
+      "project_count": 1530,
+      "market_share_percent": 4.91
+    },
+    {
+      "platform": "Infosys Nia",
+      "vendor_count": 161,
+      "total_revenue_usd": 5885020821,
+      "total_customers": 39414,
+      "project_count": 1628,
+      "market_share_percent": 4.9
+    },
+    {
+      "platform": "Contextor",
+      "vendor_count": 152,
+      "total_revenue_usd": 5871742793,
+      "total_customers": 49629,
+      "project_count": 1493,
+      "market_share_percent": 4.89
+    },
+    {
+      "platform": "Wipro HOLMES",
+      "vendor_count": 137,
+      "total_revenue_usd": 5732587736,
+      "total_customers": 47517,
+      "project_count": 1333,
+      "market_share_percent": 4.78
+    },
+    {
+      "platform": "Datamatics Truzo",
+      "vendor_count": 118,
+      "total_revenue_usd": 5719648961,
+      "total_customers": 46252,
+      "project_count": 1213,
+      "market_share_percent": 4.77
+    },
+    {
+      "platform": "Jidoka RPA",
+      "vendor_count": 159,
+      "total_revenue_usd": 5708441966,
+      "total_customers": 35532,
+      "project_count": 1655,
+      "market_share_percent": 4.76
+    },
+    {
+      "platform": "Laiye",
+      "vendor_count": 156,
+      "total_revenue_usd": 5684330862,
+      "total_customers": 48444,
+      "project_count": 1495,
+      "market_share_percent": 4.74
+    }
+  ],
+  "automation_growth_forecast": [
+    {
+      "year": 2024,
+      "estimated_market_size_usd": 72000000000,
+      "growth_rate_percent": 28.0,
+      "estimated_bot_count": 110000,
+      "project_count_forecast": 27500,
+      "key_drivers": [
+        "Hyperautomation",
+        "Generative AI Integration"
+      ]
+    },
+    {
+      "year": 2025,
+      "estimated_market_size_usd": 92160000000,
+      "growth_rate_percent": 32.0,
+      "estimated_bot_count": 140000,
+      "project_count_forecast": 35000,
+      "key_drivers": [
+        "Low-Code/No-Code",
+        "Cloud-Native RPA",
+        "Hyperautomation"
+      ]
+    },
+    {
+      "year": 2026,
+      "estimated_market_size_usd": 121651200000,
+      "growth_rate_percent": 25.0,
+      "estimated_bot_count": 170000,
+      "project_count_forecast": 42500,
+      "key_drivers": [
+        "Autonomous AI Agents",
+        "Digital Twin Technology",
+        "Agentic Automation"
+      ]
+    },
+    {
+      "year": 2027,
+      "estimated_market_size_usd": 152064000000,
+      "growth_rate_percent": 22.0,
+      "estimated_bot_count": 200000,
+      "project_count_forecast": 50000,
+      "key_drivers": [
+        "Agentic Automation",
+        "Composable Automation",
+        "AI/ML Integration",
+        "Process Mining Adoption"
+      ]
+    },
+    {
+      "year": 2028,
+      "estimated_market_size_usd": 185518080000,
+      "growth_rate_percent": 20.0,
+      "estimated_bot_count": 229999,
+      "project_count_forecast": 57499,
+      "key_drivers": [
+        "Human-in-the-Loop",
+        "Low-Code/No-Code",
+        "AI/ML Integration"
+      ]
+    },
+    {
+      "year": 2029,
+      "estimated_market_size_usd": 222621696000,
+      "growth_rate_percent": 18.0,
+      "estimated_bot_count": 259999,
+      "project_count_forecast": 64999,
+      "key_drivers": [
+        "Autonomous AI Agents",
+        "Process Mining Adoption",
+        "Generative AI Integration"
+      ]
+    },
+    {
+      "year": 2030,
+      "estimated_market_size_usd": 262693601280,
+      "growth_rate_percent": 15.0,
+      "estimated_bot_count": 290000,
+      "project_count_forecast": 72500,
+      "key_drivers": [
+        "AI/ML Integration",
+        "Hyperautomation",
+        "Process Mining Adoption",
+        "Agentic Automation"
+      ]
+    },
+    {
+      "year": 2031,
+      "estimated_market_size_usd": 302097641472,
+      "growth_rate_percent": 12.0,
+      "estimated_bot_count": 320000,
+      "project_count_forecast": 80000,
+      "key_drivers": [
+        "Intelligent Document Processing",
+        "Low-Code/No-Code",
+        "Generative AI Integration"
+      ]
+    }
+  ]
+}

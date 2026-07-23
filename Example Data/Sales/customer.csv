@@ -1,0 +1,14 @@
+customer_id,first_name,last_name,email,phone,city,state,signup_date,segment,loyalty_points
+C001,Aarav,Mehta,aarav.mehta@example.com,9876500001,Mumbai,MH,12-01-2024,Retail,120
+C002,Diya,Sharma,diya.sharma@example.com,9876500002,Delhi,DL,25-02-2024,Premium,450
+C003,Rohan,Iyer,,9876500003,Bengaluru,KA,18-03-2024,Retail,90
+C004,Meera,Nair,meera.nair@example.com,,Chennai,TN,30-04-2024,SMB,210
+C005,Nisha,Rao,nisha.rao@example.com,9876500005,,KA,05-11-2023,SMB,80
+C006,Kabir,Khan,kabir.khan@example.com,9876500006,Hyderabad,TS,14-12-2023,,300
+C007,Ananya,Sen,ananya.sen@example.com,9876500007,Kolkata,WB,01-01-2025,Premium,520
+C008,Vihaan,Patel,vihaan.patel@example.com,9876500008,Ahmedabad,GJ,20-05-2025,Retail,
+C009,Isha,Gupta,isha.gupta@example.com,9876500009,Pune,MH,09-07-2025,Retail,150
+C010,Arjun,Reddy,arjun.reddy@example.com,9876500010,Hyderabad,TS,17-08-2025,Premium,610
+C011,Neha,Joshi,neha.joshi@example.com,9876500011,Mumbai,MH,22-09-2025,Retail,130
+C011,Neha,Joshi,neha.joshi@example.com,9876500011,Mumbai,MH,22-09-2025,Retail,130
+C012,Sameer,Verma,sameer.verma@example.com,9876500012,Delhi,DL,15-10-2025,SMB,260

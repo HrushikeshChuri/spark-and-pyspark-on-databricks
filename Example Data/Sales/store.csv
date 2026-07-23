@@ -1,0 +1,9 @@
+store_id,store_name,city,state,region,manager_name,open_date,store_type
+S001,Hexa Mart Mumbai,Mumbai,MH,West,Ravi Shah,01-04-2020,Flagship
+S002,Hexa Mart Delhi,Delhi,DL,North,Priya Kapoor,15-06-2020,Flagship
+S003,Hexa Mart Bengaluru,Bengaluru,KA,South,Manoj Kumar,10-09-2021,Express
+S004,Hexa Mart Chennai,Chennai,TN,South,Lakshmi Menon,05-11-2021,Express
+S005,Hexa Mart Hyderabad,Hyderabad,TS,South,Farhan Ali,20-01-2022,Flagship
+S006,Hexa Mart Kolkata,Kolkata,WB,East,,18-03-2022,Express
+S007,Hexa Mart Pune,Pune,MH,West,Sonal Patil,12-08-2023,Kiosk
+S008,Hexa Mart Jaipur,Jaipur,RJ,North,Amit Bansal,01-12-2023,Kiosk
